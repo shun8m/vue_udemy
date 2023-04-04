@@ -15,7 +15,7 @@
     JSで簡単なto doアプリ書いてみる
 
 6. Re-building the App with Vue (11:39)
-
+    
 
 7. Vue vs "Vanilla JavaScript" (just JavaScript) (1:10)
 
