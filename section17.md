@@ -1,0 +1,17 @@
+17. Vue & Authentication
+    Module Introduction (1:00)
+    How Authentication Works in Vue Apps (or any SPA) (6:09)
+    Locking / Protecting Backend Resources (5:56)
+    Adding an Authentication Page (Login & Signup) (9:54)
+    Preparing Vuex (4:22)
+    Adding a "Signup" Action & Flow (9:05)
+    Better UX: Loading Spinner & Error Handling (5:30)
+    Adding a "Login" Action & Flow (3:15)
+    Attaching the Token to Outgoing Requests (4:19)
+    Updating the UI Based on Auth State (4:04)
+    Adding a "Logout" Action & Flow (3:34)
+    Authentication & Routing (incl. Navigation Guards) (11:41)
+    Adding "Auto Login" (8:52)
+    Adding "Auto Logout" (13:34)
+    Summary (1:19)
+    Module Resources

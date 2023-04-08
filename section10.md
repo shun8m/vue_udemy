@@ -1,0 +1,15 @@
+10. Course Project: The Learning Resources App
+    Module Introduction (1:37)
+    Setup & First Steps (5:24)
+    First Components & Props (10:46)
+    Styling and More Components (7:19)
+    Header & BaseCard Components (7:00)
+    Adding a Base Button (5:19)
+    Dynamic Components & Attribute Fallthrough (8:37)
+    Adding & Styling Tabs (4:58)
+    Adding a Form (4:12)
+    Fetching User Input (8:27)
+    Adding a Modal Dialog (12:19)
+    Deleting Items (6:42)
+    Adding "Teleport" (1:28)
+    Module Resources
