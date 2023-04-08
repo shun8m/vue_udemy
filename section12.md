@@ -1,0 +1,15 @@
+12. Sending Http Requests
+    Module Introduction (1:08)
+    Starting App & Why we need a Backend (5:04)
+    Adding a Backend (3:21)
+    How To (Not) Send Http Requests (5:23)
+    Sending a POST Request to Store Data (5:45)
+    Http Requests & Http Methods (Verbs)
+    Getting Data (GET Request) & Transforming Response Data (9:51)
+    Loading Data When a Component Mounts (2:00)
+    Showing a "Loading..." Message (2:55)
+    Handling the "No Data" State (3:00)
+    Handling Technical / Browser-side Errors (6:41)
+    Handling Error Responses (6:49)
+    Module Summary (1:31)
+    Module Resources
