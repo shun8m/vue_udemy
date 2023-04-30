@@ -24,3 +24,4 @@
    ログ出力機能をメソッドに付与
 
 9. Module Resources
+   css の style、computed で data の値を基に決められる
